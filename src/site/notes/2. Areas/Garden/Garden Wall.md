@@ -5,4 +5,6 @@
 
 # Home
 
-It's the Garden. 
+It's the Garden.  
+
+Here are the machines. [[2. Areas/Studio/Machines/Machine List/Simple Machine List|Simple Machine List]]
