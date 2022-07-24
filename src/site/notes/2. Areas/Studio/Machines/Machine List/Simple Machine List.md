@@ -25,5 +25,4 @@
 - [[2. Areas/Studio/Machines/Machine List/Volca Keys|Volca Keys]]
 - [[2. Areas/Studio/Machines/Machine List/__Machine List|__Machine List]]
 - [[2. Areas/Studio/Machines/Machine List/Simple Machine List|Simple Machine List]]
-- [[2. Areas/Studio/Machines/SamplePad with SP-404|SamplePad with SP-404]]
 
