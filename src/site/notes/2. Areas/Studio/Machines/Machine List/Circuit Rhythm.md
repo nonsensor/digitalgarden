@@ -4,4 +4,5 @@
 
 
 # Novation Circuit Rhythm
-Manual_URL:: 📄 http://u.pc.cd/EnSrtalK
+
+[User Manual](http://u.pc.cd/EnSrtalK)
