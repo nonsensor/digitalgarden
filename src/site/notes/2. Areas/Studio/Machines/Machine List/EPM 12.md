@@ -5,7 +5,9 @@
 
 # EPM 12
 
-Manual_URL::  📄 http://u.pc.cd/o8p7
+[User Manual](http://u.pc.cd/o8p7)
+
+## Resources
 
 [Soundcraft EFX MFX series mixer how to dismantle, cleaning and fixing - YouTube](https://www.youtube.com/watch?v=wHfExJ_MuYU)
 
