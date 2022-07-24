@@ -4,7 +4,8 @@
 
 
 # Novation Circuit Tracks
-Manual_URL::  📄 http://u.pc.cd/Y16italK
+
+[User Manual](http://u.pc.cd/Y16italK)
 
 ## Resources
 - [Novation Circuit Sample Sets 12-2019.rar](https://www.dropbox.com/s/von9tid3e4kfy30/Novation%20Circuit%20Sample%20Sets%2012-2019.rar)
