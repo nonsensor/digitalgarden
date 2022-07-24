@@ -5,4 +5,4 @@
 
 # Arturia MicroBrute
 
-Manual_URL:: 📄 http://u.pc.cd/pVPctalK
+[User Manual](http://u.pc.cd/pVPctalK)
