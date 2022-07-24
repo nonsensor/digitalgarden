@@ -3,6 +3,7 @@
 ---
 
 
+# List of Machines
 - [[2. Areas/Studio/Machines/Dimensions|Dimensions]]
 - [[2. Areas/Studio/Machines/Machine List/Circuit Rhythm|Circuit Rhythm]]
 - [[2. Areas/Studio/Machines/Machine List/Circuit Tracks|Circuit Tracks]]
